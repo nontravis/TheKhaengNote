@@ -13,18 +13,17 @@
 
 ## Super plugin
 
-- [+] ACE jump
-- [+] Android Drawable Importer
-- [+] JavaDoc
-- [+] Android Parcelable code generator
-- [+] Android Postfix Completion
-- [+] Android Studio Prettify
-- [+] GsonFormat [or <http://www.jsonschema2pojo.org/>]
-- [+] Android Code Generator
-- [+] Selector Chapek
-- [+] Android Parcelable Generator
-- [+] folding-plugin
-- [+] Lifecycle Sorter
+- [ ! ] [ACE jump](https://plugins.jetbrains.com/idea/plugin/7086-acejump)
+- [ ! ] [Android Drawable Importer](https://plugins.jetbrains.com/idea/plugin/7658-android-drawable-importer)
+- [ ! ] [JavaDoc](https://github.com/setial/intellij-javadocs)
+- [ ! ] [Android Parcelable code generator](https://github.com/mcharmas/android-parcelable-intellij-plugin)
+- [ ! ] [Android Postfix Completion](https://plugins.jetbrains.com/idea/plugin/7775-android-postfix-completion)
+- [ ! ] [Android Studio Prettify](https://plugins.jetbrains.com/idea/plugin/7405-android-studio-prettify)
+- [ ! ] [GsonFormat](https://plugins.jetbrains.com/androidstudio/plugin/7654-gsonformat) [or <http://www.jsonschema2pojo.org/>]
+- [ ! ] [Android Code Generator](https://plugins.jetbrains.com/idea/plugin/7595-android-code-generator)
+- [ ! ] [Selector Chapek](https://plugins.jetbrains.com/idea/plugin/7298-selectorchapek-for-android)
+- [ ! ] [folding-plugin](https://github.com/dmytrodanylyk/folding-plugin)
+- [ ! ] [Lifecycle Sorter](https://plugins.jetbrains.com/idea/plugin/7742-lifecycle-sorter)
 
 ## optional
 
