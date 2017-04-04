@@ -26,6 +26,7 @@
 
 > - tap capslock for change language
 > - bug: mac 10.12.1 use Karabiner-Elements [6/12/59]
+> - Caps lock to change language [[link](http://dae.me/blog/593/select-input-language-by-caps-lock-in-mac-os-x/)]
 
 ## 6\. Scroll reverse: [[link](http://pilotmoon.com/scrollreverser/)]
 
