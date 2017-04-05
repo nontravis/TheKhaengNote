@@ -25,6 +25,8 @@
 - [ ! ] [folding-plugin](https://github.com/dmytrodanylyk/folding-plugin)
 - [ ! ] [Lifecycle Sorter](https://plugins.jetbrains.com/idea/plugin/7742-lifecycle-sorter)
 - [ ! ] [Android Strings Search](https://github.com/konifar/android-strings-search-plugin)
+- [ ! ] [Material color palette plug-in](https://github.com/dvdandroid/material-color-palette-pluginn)
+- [ ! ] [Android material design icon generator pluginn](https://github.com/dvdandroid/material-color-palette-pluginn)
 
 ## optional
 
